@@ -16,7 +16,13 @@ This project is a Python-based simulation of a classic slot machine game. The pl
 4. **Winning/Losing**: The game checks for matching symbols across the selected lines and updates the balance based on the results.
 5. **Replay or Quit**: The player can choose to spin again or quit the game.
 
-## Installation & Setup
+   
+## Acknowledgment
+This project was built following a tutorial on YouTube, which provided an excellent introduction to Python programming and game logic development. I extend my gratitude to the content creator for making such a valuable resource available.
+YouTube link: [https://www.youtube.com/watch?v=th4OBktqK1I]
+
+
+## Installation & Setup 
 1. Clone the repository:
    ```bash
    git clone https://github.com/BBDDSrivalli/Slot_Machine/tree/main <br>
@@ -26,8 +32,8 @@ This project is a Python-based simulation of a classic slot machine game. The pl
 3.Run the game:
   ```bash
   python slot_machine.py
-## Acknowledgement
-This project was built following a tutorial on YouTube, which provided a great introduction to Python programming and game logic development.
-Youtube link - https://www.youtube.com/watch?v=th4OBktqK1I
+
+
+
 
 
